@@ -1,8 +1,8 @@
-# Carl
+### Carl
 
 Carl is a free and open-source operating system built with the goal of providing a modern alternative for personal computers and servers.
 
-> **Status:** 🚧 Early development (0.1)
+> **Status:** 🚧 Experimental (0.1)
 
 ## Goals
 
@@ -57,7 +57,9 @@ The primary goal is to build a solid foundation before adding advanced functiona
 
 ## Contributing
 
-Everyone is welcome.
+Carl is independent and welcomes contributions for individuals, communities, organizations, and companies.
+
+Contributions are reviewed before being integrated into the project.
 
 You can contribute by:
 
@@ -84,7 +86,7 @@ Before submitting a Pull Request:
 
 ## License
 
-GNU Public License 2.0
+GNU General Public License, version 2 (GPL-2.0)
 
 ## Community
 
