@@ -1,5 +1,5 @@
 # Carl OS Makefile
-# Compila el kernel para x86_64 UEFI/BIOS con GRUB2
+# Compile the kernel for x86_64 UEFI/BIOS with GRUB2
 
 # ============================================================================
 # Variables
